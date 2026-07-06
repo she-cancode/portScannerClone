@@ -36,3 +36,9 @@ This script leverages the `scapy` library to craft raw network packets, bypassin
 **Running the Foundational Scanner:**
 ```bash
 python3 foundational.py
+
+## Usage
+
+```bash
+python3 main.py
+```
